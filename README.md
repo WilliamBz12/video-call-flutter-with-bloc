@@ -14,15 +14,18 @@ The video and audio quality is good, and is very easy for work with him.
 #### MVVM ARCHITECTURE WITH BLOC
 
 SERVICE: Used to handle all config and actions of Agora Engine (Like initial configs and Handle Actions);
+
 BLOC: Used to do state's controll and set the functions that we are used with [agora_rtc_engine](https://pub.dev/packages/agora_rtc_engine);
+
 PAGE: Used to presentation of our project (WIDGETS and some other functions).
 
 #### PROJECT 
 
 In the main principal we have the shield 'channel Name', we use this information to create a room (or channel) where one or more users can do connections.  
-![image main](screenshot_main.jpg)
-
 After the join in a channel, open a new module where we can see and speak with other people.
 
-![image one user](screenshot_one_user.jpg)
+![image main](screenshot_main.jpg)
+
+![image one user](screenshot_one_user.jpg) 
+
 ![image two users](screenshot_two_users.jpg)
