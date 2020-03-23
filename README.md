@@ -24,5 +24,4 @@ In the main principal we have the shield 'channel Name', we use this information
 
 After the join in a channel, open a new module where we can see and speak with other people.
 
-![image one user](screenshot_one_user.jpg)
-![image two users](screenshot_two_users.jpg)
+![image one user](screenshot_one_user.jpg) ![image two users](screenshot_two_users.jpg)
