@@ -22,8 +22,10 @@ PAGE: Used to presentation of our project (WIDGETS and some other functions).
 #### PROJECT 
 
 In the main principal we have the shield 'channel Name', we use this information to create a room (or channel) where one or more users can do connections.  
-![image main](screenshot_main.jpg)
-
 After the join in a channel, open a new module where we can see and speak with other people.
 
-![image one user](screenshot_one_user.jpg) ![image two users](screenshot_two_users.jpg)
+![image main](screenshot_main.jpg)
+
+![image one user](screenshot_one_user.jpg) 
+
+![image two users](screenshot_two_users.jpg)
