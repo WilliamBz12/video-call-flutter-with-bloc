@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:rxdart/subjects.dart';
 
-import 'agora_engine_service.dart';
+import 'services/agora_engine_service.dart';
 
 class VideoCallBloc extends Disposable {
   AgoraEngineService agoraEngineService;

@@ -1,7 +1,7 @@
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:videocallflutter/app/modules/video_call/video_call_page.dart';
 
-import 'agora_engine_service.dart';
+import 'services/agora_engine_service.dart';
 import 'video_call_bloc.dart';
 
 class VideoCallModule extends ChildModule {
