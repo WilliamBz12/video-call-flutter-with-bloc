@@ -14,8 +14,10 @@ The video and audio quality is good, and is very easy for work with him.
 #### MVVM ARCHITECTURE WITH BLOC
 
 SERVICE: Used to handle all config and actions of Agora Engine (Like initial configs and Handle Actions);
-\nBLOC: Used to do state's controll and set the functions that we are used with [agora_rtc_engine](https://pub.dev/packages/agora_rtc_engine);
-\nPAGE: Used to presentation of our project (WIDGETS and some other functions).
+
+BLOC: Used to do state's controll and set the functions that we are used with [agora_rtc_engine](https://pub.dev/packages/agora_rtc_engine);
+
+PAGE: Used to presentation of our project (WIDGETS and some other functions).
 
 #### PROJECT 
 
